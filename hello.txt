@@ -1,2 +1,5 @@
-Hello guys :)
+﻿Hello guys :)
 Macht euch bitte selbstständig mit git vertraut und ladet euch den Desktop-Client runter und richtet euch den ein!
+
+
+Test von Nils
